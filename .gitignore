@@ -1,0 +1,7 @@
+
+.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/react-mobile-shop.iml
+.idea/workspace.xml
+node_modules/
